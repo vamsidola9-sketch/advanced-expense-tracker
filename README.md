@@ -3,7 +3,7 @@
 A high-performance, minimalist, web-based financial analytics dashboard built using AI-native rapid prototyping workflows. This application empowers users to manage micro-budgets dynamically with strict architectural data handling.
 
 ## 🚀 Live Production Environment
-👉 **[Click Here to Launch the Live Web App](https://netlify.app)** *(Replace this URL with your exact active deployment link from the right side of your GitHub screen)*
+**[Click Here to Launch the Live Web App](https://vercel.app)**
 
 ---
 
